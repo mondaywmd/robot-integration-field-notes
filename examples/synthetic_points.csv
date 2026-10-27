@@ -1,0 +1,3 @@
+expected_x_m,expected_y_m,expected_z_m,measured_x_m,measured_y_m,measured_z_m
+0,0,0,0.01,0,0
+1,0,0,1.01,0,0
